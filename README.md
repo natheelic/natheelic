@@ -23,3 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=natheelic&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 
+[![](https://github.com/VishwaGauravIn/github-twitter-card-embed")](https://gtce.itsvg.in/api?username=nooknickzzi&theme=dracula&response=true&border=true&time=true&icon=default)
