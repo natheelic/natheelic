@@ -25,4 +25,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 
-![](https://gtce.itsvg.in/api?username=nooknickzzi&theme=dracula&response=true&border=true&time=true&icon=default)
