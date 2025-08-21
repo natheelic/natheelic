@@ -1,19 +1,53 @@
-# 💫 About Me:
-🔭 I’m currently working on TH
+# Hi there 👋 I’m Nathee Srina (นที ศรีนะ)
 
-[![](https://visitcount.itsvg.in/api?id=natheelic&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
+🎓 Lecturer at **Long Industrial and Community Education College**  
+📚 Teaching in **Electronics** and **Computer Engineering Technology**  
+💡 Passionate about **Open Source, Education Technology, IoT, and Applied Research**  
+🚀 Bridging the gap between **academic theory and real-world applications**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srina.nathee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nooknickzzi) 
+---
 
+## 👨‍🏫 About Me
+- Lecturer with expertise in **Electronics, Computer Technology, and Information Systems**  
+- Teaching and mentoring students in **programming, hardware, and applied technologies**  
+- Researcher in **Machine Learning, IoT, and Computer Vision** (e.g. real-time safety glasses detection)  
+- Lifelong learner with strong belief in **education through practice**  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natheelic&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=natheelic&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natheelic&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=natheelic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🎓 Education
+- **M.Eng. (Master’s Degree)** – King Mongkut’s University of Technology Thonburi (KMUTT)  
+- **B.Eng. (Bachelor’s Degree)** – King Mongkut’s University of Technology North Bangkok (KMUTNB)  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=natheelic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+## 🔬 Research & Projects
+- **Real-Time Safety Glasses Detection** – Computer Vision + IoT for workplace safety (2025)  
+- **Educational Workshops** – Python fundamentals, APIs with Flask & JSON, SQL databases  
+- **Curriculum Development** – Digital learning innovations and hands-on labs  
+
+---
+
+## ⚒️ Tech Stack
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks**: Flask, Django, Node.js  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Git, Docker, Linux  
+- **Domains**: IoT, Machine Learning, Educational Technology  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natheelic&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natheelic&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect with Me
+- **Website**: [eleccom.in.th](https://eleccom.in.th/)  
+- **Academic Blog**: [nathee.lic.ac.th](https://nathee.lic.ac.th/)  
+- **Research**: [KMUTT KIRIM](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54389676?lang=de_DE)  
+
+---
+
+✨ _“Educating through practice, researching for real outcomes, and developing for societal impact.”_
